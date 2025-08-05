@@ -1,0 +1,17 @@
+{
+  "name": "create-openprocessing-p5-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-openprocessing-p5-ts": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
